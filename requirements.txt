@@ -6,6 +6,7 @@ marshmallow==3.18.0
 umongo==3.1.0
 requests
 bs4
+git+https://github.com/cinemagoer/cinemagoer
 imdbpy==2022.7.9
 heroku3
 pynewtonmath
