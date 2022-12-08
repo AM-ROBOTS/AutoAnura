@@ -13,7 +13,6 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://paisakamalo.in/')
     START_TXT = environ.get("START_TXT", "𝙷𝙴𝙻𝙻𝙾 {}")
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
@@ -25,14 +24,14 @@ class script(object):
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43 [ 𝙱𝙴𝚃𝙰 ]</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- F9Videos is a not open source project. 
+- F9Videos is a open source project. 
 - Source - https://github.com/Mujahidul09
 
 <b>DEVS:</b>
 - <a href=https://t.me/F9Videos>ᴀᴍ_ᴛᴇᴄʜ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᎯℕUℛᎯᎶ will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and BOT will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. Bot should have admin privillage.
