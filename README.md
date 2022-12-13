@@ -129,8 +129,8 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/sources_cods)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/MOVIES_ZILAA)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/F9Videos)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/F9Videos_Support)
 
 ## Credits 
 * [![ᎯℕUℛᎯᎶ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/sources_cods)
@@ -152,4 +152,4 @@ Licensed under [GNU AGPL 2.0.](https://github.com/AM-ROBOTS/AdvAnurag/blob/main/
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Contact Support 
-🙃[Support](https://telegram.dog/Technical_Help_Support_Bot)
+🙃[Support](https://telegram.dog/mujahidul09)
