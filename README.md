@@ -16,17 +16,8 @@
   <img src="https://te.legra.ph/file/bc824e254dac8fb5fb3db.jpg" alt="F9 Videos">
 </p>
 <h1 align="center">
-  <b>ᎯℕUℛᎯᎶ</b>
+  <b>F9 Videos</b>
 </h1>
-
-
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/AM-ROBOTS/AdvAnurag/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/AM-ROBOTS/AdvAnurag/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/AM-ROBOTS/AdvAnurag/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AM-ROBOTS/AdvAnurag)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/AM-ROBOTS/AdvAnurag/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/AM-ROBOTS/AdvAnurag/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
 
 ## Features
@@ -49,7 +40,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/sources_cods) before you start messing up with your edits.
+Read [this](https://telegram.dog/F9Videos) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
