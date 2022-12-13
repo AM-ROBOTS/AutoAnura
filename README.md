@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/AM-ROBOTS/AdvAnurag/blob/main/assets/logo.jpg" alt="Anurag Logo">
+  <img src="https://te.legra.ph/file/bc824e254dac8fb5fb3db.jpg" alt="F9 Videos">
 </p>
 <h1 align="center">
   <b>ᎯℕUℛᎯᎶ</b>
