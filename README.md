@@ -72,7 +72,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/AdvAnurag">
+<a href="https://heroku.com/deploy?template=https://github.com/Mujahidul09/AdvF9VideosBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 
 <br>
 
-<a href="https://render.com/deploy?repo=https://github.com/Joelkb/DQ-the-file-donor/tree/web">
+<a href="https://render.com/deploy?repo=https://github.com/Mujahidul09/AdvF9VideosBot">
 
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 
@@ -93,7 +93,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/AM-ROBOTS/AdvAnurag
+gitg
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
