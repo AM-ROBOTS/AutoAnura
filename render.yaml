@@ -1,6 +1,6 @@
 services:
   # A Docker web service
-  - type: master 
+  - type: web
     name: F9Devs 
     env: python
     startCommand: python3 bot.py
